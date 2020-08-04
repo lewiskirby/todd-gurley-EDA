@@ -10,5 +10,6 @@ An exploratory data analysis project looking into Todd Gurley's career statistic
 ## Findings
 NFL fans will be aware that the former All Pro running back has seen a significant reduction in production on the field as a result of injury concerns, this project was centred around Gurley's usage and how it has changed during his career.
 
-![career usage](images/Todd Gurley usage.png)
+![Usage preview](images/usage.png)
+
 An insight into how Gurley's usage has changed over his career
